@@ -1,0 +1,95 @@
+git
+---
+C:\Program Files\Git
+
+github
+user: abhijitstylopay
+email: Abhijit@stylopay.com
+pass: Qwer1234%
+
+StylopayTest
+Testing Stylopay repository
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 ~
+$ cd
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 ~
+$ cd /c
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c
+$ ls
+'$GetCurrent'/              hiberfil.sys    pagefile.sys            Recovery/                     SYSTEM.SAV/
+'$Recycle.Bin'/             hp/             PerfLogs/               StyloPay_AiTap/               Users/
+ BOOTNXT                    inetpub/       'Program Files'/         swapfile.sys                  Windows/
+ Config.Msi/                Intel/         'Program Files (x86)'/   SWSETUP/                      Windows10Upgrade/
+'Documents and Settings'@   OneDriveTemp/   ProgramData/           'System Volume Information'/   zAbGo/
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c
+$ ^C
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c
+$
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay
+$ cd git/
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ ls
+ Git-2.16.2-64-bit.exe*  'stylopay git misc.txt'
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$
+ Now cloning repository into git folder
+     https://github.com/abhijitstylopay/StylopayTest.git
+
+Before cloning
+we need to configure our git account for our github repository
+
+This will set user name for git account
+$ git config --global user.name "abhijitstylopay"
+
+$ git config --global user.email Abhijit@stylopay.com
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay
+$ cd git/
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ ls
+ Git-2.16.2-64-bit.exe*  'stylopay git misc.txt'
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ git config --global user.name "abhijitstylopay"
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ git config --global user.email Abhijit@stylopay.com
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+
+No give git clone command 
+
+$ git clone https://github.com/abhijitstylopay/StylopayTest.git
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ git clone https://github.com/abhijitstylopay/StylopayTest.git
+Cloning into 'StylopayTest'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+
+This command has cloned the github repository into local folder.
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ ls
+ Git-2.16.2-64-bit.exe*  'stylopay git misc.txt'   StylopayTest/
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git
+$ cd StylopayTest/
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git/StylopayTest (master)
+$ ls
+README.md
+
+abhij@LAPTOP-4QOG8EN6 MINGW64 /c/StyloPay_AiTap/StyloPay Sanjit/StyloPay/git/StylopayTest (master)
